@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1621939419 source:c:\users\user\desktop\frogs\graph\main.cpp
+	<iostream>
+	<graphics.h>
+	<locale.h>
+	<cmath>
+	<windows.h>
+	<conio.h>
+
